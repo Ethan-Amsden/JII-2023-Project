@@ -1,0 +1,6 @@
+Space Piraces RPG Character Sheet
+Name: Character
+Class: Elite Trooper
+Weapon: Laser Rifle
+Sidearm: Precision Pistol
+Specialty: Combat
